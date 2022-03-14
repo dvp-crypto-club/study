@@ -1,4 +1,4 @@
----
+
 Phase 1. Tutorial
 ---
 ```
@@ -9,7 +9,7 @@ Phase 1. Tutorial
 5. web.py 에서 Local Network 환경에 배포된 나의 Smart Contract 사용해보기
 ```
 
----
+
 Phase 2. Private Network with CLI
 ---
 ```
@@ -20,7 +20,6 @@ Phase 2. Private Network with CLI
 5. CLI 기반으로 connect wallet, transfer 등을 실제 시나리오처럼 사용 후 네트워크에서 어떤 일이 벌어지는지 확인. (보안 이슈 학습하기)
 ```
 
----
 Phase 3. Public Network with GUI
 ---
 ```
